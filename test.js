@@ -1,1 +1,1 @@
-console.log('aaaaaaallaaammma')
+console.log('12345')
